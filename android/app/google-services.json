@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426535237705",
+    "project_id": "hrisocagroup",
+    "storage_bucket": "hrisocagroup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426535237705:android:a460355d11717aa995e798",
+        "android_client_info": {
+          "package_name": "com.mycompany.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM2ftmkTwiQAs_wFQVqJJ1nO6YZ1P3Boo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
